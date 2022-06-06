@@ -6,7 +6,9 @@
 * Email: kurbik93@gmail.com
 * Discord: korban#5313
 * Skype: korban77777
+
 ## Info about me
+
   At the moment I work as a support specialist for the Bitrix24 website. I understand that I lack knowledge in the field of building sites, correct layout and modern technologies. I worked with Oracle DB in the support department of HP Service Desk, worked in the department of geoinformation systems, created geoinformation services.
   ***
 ## Skills
