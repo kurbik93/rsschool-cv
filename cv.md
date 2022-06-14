@@ -3,7 +3,7 @@
 ## Contact info
 
 * City: Kazan
-* Email: kurbik93@gmail.com
+* Email: kurbangalievIR@gmail.com
 * Discord: korban#5313
 * Skype: korban77777
 
