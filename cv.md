@@ -16,6 +16,7 @@
   * CSS
   * JS
   * Bitrix24
+
 ## Code examples
  
 ```
@@ -35,3 +36,7 @@
  I graduated from Kazan (Volga Region) Federal University with a degree in mathematics, systems programmer.
 
 ## English - B1
+
+## Hobby 
+ 
+ I really like swimming and play table games with my friends. 
